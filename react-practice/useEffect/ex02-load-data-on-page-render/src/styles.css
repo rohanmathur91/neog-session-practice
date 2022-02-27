@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+.card {
+  width: 15rem;
+  height: 20rem;
+  margin: auto;
+}
